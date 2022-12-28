@@ -1,0 +1,12 @@
+instalasi untuk membuat aplikasi 
+
+     
+         express                        : 4.18.2 
+        express-fileupload              : 1.4.0 
+         mysql2                         : 2.3.3 
+         sequelize                      : 6.25.8 
+         cors                           : 2.8.5 
+        nodemon                         : 2.0.19
+        nodemon index (menjalankan server backend)
+        npx create-react-app (nama folder)
+        npm start -> memulai react (menjalankan server front end)
